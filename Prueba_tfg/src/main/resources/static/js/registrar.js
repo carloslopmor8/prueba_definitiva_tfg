@@ -29,5 +29,9 @@ async function registrarUsuario(){
 
     });
 
+    alert("La cuenta fue creada con éxito!");
+    window.location.href= 'login.html';
+
+
 }
 
